@@ -10,7 +10,7 @@ import pygame  # Legg til denne importen
 pygame.mixer.init()
 
 # Filnavn for input
-input_file = "Værdata_Kroksjøen/Parameter_output.txt"
+input_file = "/Users/brageskikstadengeland/Desktop/Egenprog/Værdata_Kroksjøen/Parameter_output.txt"
 
 def play_alert_sound():
     try:

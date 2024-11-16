@@ -10,7 +10,7 @@ from Smooth_curves import spline_interpolation, moving_average
 from Kite_mode import kite_mode  # Importer fra common_functions.py
 
 # Filnavn for input
-input_file = "Værdata_Kroksjøen/Parameter_output.txt"
+input_file = "/Users/brageskikstadengeland/Desktop/Egenprog/Værdata_Kroksjøen/Parameter_output.txt"
 
 # Funksjon for å lese data fra filen
 def read_and_plot_data(hours_back=None, daytime_only=False):
